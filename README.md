@@ -66,4 +66,25 @@ Roadmap to learn app development by dBug Labs
 * Understand how to pass data backwards using the Navigator widget.
 
 ### CUPERTINO WIDGETS AND PLATFORM-BASED UI
+* Learn to use the Cupertino package and build Flutter apps for iOS with UIKit styled Cupertino widgets.
+* Use the dart:io library to detect runtime platform and create separate UIs for iOS and Android in the same Flutter app.
+* Learn to use Dart loops to create recurring widgets.
 
+### INTEGRATING FLUTTER APPS WITH FIREBASE
+* Learn to use hero animations in Flutter apps.
+* Understand how the animation controller works and create custom animations.
+* Learn to use Dart mixins to extend class functionality.
+* Incorporate Firebase Cloud Firestore into your Flutter apps.
+* Implement authentication in your Flutter apps with the Firebase Auth package.
+* Build a scrolling ListView widget to learn how Flutter creates and destroys reusable elements.
+* Understand Dart Streams to listen to data changes.
+* Learn to use the Flutter StreamBuild to turn streams of data into widgets that can be rendered.
+
+### STATE MANAGEMENT
+* Understand why we need to manage state across our widget tree.
+* Learn about declarative vs. imperative programming.
+* Look at how setState works under the hood.
+* Learn about prop drilling and lifting state up.
+* Create a todo list app.
+* Learn about the BottomSheet widget and the ListViewBuilder. Understand Flutter app architecture design patterns.
+* Learn to manage state with the Google recommended Provider package.
