@@ -90,4 +90,4 @@ Roadmap to learn app development by dBug Labs
 * Learn to manage state with the Google recommended Provider package.
 
 ### Sources to learn flutter from -
-<a href="https://flutter.dev/?gclid=Cj0KCQjw8e-gBhD0ARIsAJiDsaXWmAQEyETfE6guZuy1MWffnGyrevzselQT15FYr_zYON8xQRwFAxEaAhUTEALw_wcB&gclsrc=aw.ds"><img src=<a href="https://pixlok.com/images/flutter-logo-png-image-free-download/">House photo created by Search png - www.pixlok.com</a>></img></a>
+[![Flutter Docs](https://user-images.githubusercontent.com/116586681/227198995-1f0ce251-9369-4e09-8698-81fb27f225b0.png)](https://flutter.dev/?gclid=Cj0KCQjw8e-gBhD0ARIsAJiDsaXWmAQEyETfE6guZuy1MWffnGyrevzselQT15FYr_zYON8xQRwFAxEaAhUTEALw_wcB&gclsrc=aw.ds)
