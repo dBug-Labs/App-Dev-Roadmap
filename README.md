@@ -34,4 +34,36 @@ Roadmap to learn app development by dBug Labs
 * Learn to refactor widgets and understand Flutter's philosophy of UI as code.
 
 ### STRUCTURING FLUTTER APPS
+* Learn about how lists and conditionals work in Dart.
+* Learn about classes and objects in Dart and how it apply to Flutter widgets.
+* Understand Object Oriented Dart and how to apply the fundamentals of OOP to restructuring a Flutter app.
+* Learn to use Dart Constructors to create customisable Flutter widgets.
+* Apply common mobile design patterns to structure Flutter apps.
+* Learn about structuring and organising Flutter apps.
+
+### CREATING BEAUTIFUL UI WITH FLUTTER FOR INTERMEDIATES
+* Customise apps with Theme widgets.
+* Refactoring widgets by extracting them as separate Widget classes.
+* Learn about Dart annotations and modifiers.
+* Understand the immutability of Stateless and Stateful Widgets and how the screen is updated with the build() method.
+* Create custom Flutter Widgets by combining smaller widgets.
+* Learn about the difference between final and const in Dart.
+* Learn about maps, enums and the ternary operator in Dart.
+* Understand that functions are first class objects in Dart and how functions can be passed around as arguments.
+* Learn to build multi-screen Flutter apps by learning about routes and the Navigator widget.
+* Understand why flutter favours composition vs. inheritance when customising widgets.
+
+### POWERING FLUTTER APPS WITH BACKEND DATA
+* Learn about asynchronous programming in Dart and understand how to use async/await and the Futures API.
+* Understand Stateful Widget lifecycle methods.
+* Handling exceptions in dart with try/catch and throw.
+* Use Dart null aware operators to prevent app crashes.
+* Getting location data from both iOS and Android.
+* Using the http package to perform networking and get live data from open APIs.
+* Understanding how to parse JSON data using the dart:convert library.
+* Understand how to pass data to State objects via the Stateful Widget.
+* Use the TextField Widget to take user input.
+* Understand how to pass data backwards using the Navigator widget.
+
+### CUPERTINO WIDGETS AND PLATFORM-BASED UI
 
